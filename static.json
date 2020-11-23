@@ -2,6 +2,7 @@
   "headers": {
     "/*": {
       "X-Author": "nirogle1"
+      "Access-Control-Allow-Origin должен иметь значение": "*"
     }
   }      
 }
